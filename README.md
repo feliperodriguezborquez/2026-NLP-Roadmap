@@ -1,4 +1,4 @@
-# The 2026 NLP SOTA Roadmap
+# The 2026 SOTA LLMs Roadmap
 
 ## 1. Fundamentals
 
@@ -8,7 +8,7 @@ attn is all you need, gpt3
 
 ## 2. Architecture
 
-                               moe, layernorm, batchnorm, rope
+attn is all you need, moe, olmo, llama 3, deepseek, etc
 
 ### 2.1 Attention
 
@@ -17,3 +17,9 @@ Attention is all you need, gqa, mla, dsa, flash attn?
 ### 2.2 FFN
 
 MLP, SwiGLU
+
+### 2.3 Others
+
+Layernorm, rope
+
+## 3. Techniques
