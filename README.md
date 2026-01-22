@@ -1,4 +1,4 @@
-# The 2026 SOTA LLMs Roadmap
+# The 2026 SoTA LLMs Roadmap
 
 ## 1. Fundamentals
 
