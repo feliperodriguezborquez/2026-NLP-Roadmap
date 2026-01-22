@@ -1,5 +1,7 @@
 # The 2026 SoTA LLMs Roadmap
 
+This Roadmap assumes you are familiriazed with classic deep neural networks. You will find the best resources to learn everything about LLMs to the SoTA.
+
 ## 1. Fundamentals
 
 [3blue1brown](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi), [Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy), [Sebastian Raschka](https://www.youtube.com/@SebastianRaschka).
