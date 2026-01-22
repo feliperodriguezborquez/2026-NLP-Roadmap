@@ -2,7 +2,7 @@
 
 ## 1. Fundamentals
 
-3blue1brown, karpathy, raschka.
+[3blue1brown](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi), [Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy), [Sebastian Raschka](https://www.youtube.com/@SebastianRaschka).
 
 attn is all you need, gpt3
 
