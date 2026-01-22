@@ -25,3 +25,5 @@ MLP, SwiGLU
 Layernorm, rope
 
 ## 3. Techniques
+
+distribued training, cuda kernels, pretraining, rlhf, rlvr, ppo, dpo, grpo, gdpo
